@@ -37,7 +37,7 @@ public class Orcamento {
     public void setSituacao(SituacaoOrcamento situacao) {
         this.situacao = situacao;
     }
-    public String getSituacao() {
+    public SituacaoOrcamento getSituacao() {
         return situacao;
     }
 }
